@@ -1,5 +1,5 @@
 import './App.css';
-import img from './/pics/omworks_logo.svg';
+import img from './/pics/omworks_b.svg';
 
 
 function App() {
@@ -7,7 +7,6 @@ function App() {
     <div className="App">
       <header className="App-header">
       <img src={img} alt="omworks - yoga creatives"/>
-          <h1>YOGACREATIVES</h1>
       </header>
     </div>
   );
